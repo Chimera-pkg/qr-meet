@@ -1,0 +1,29 @@
+import 'dart:developer';
+
+import 'package:PictSnap/providers/providers.dart';
+import 'package:PictSnap/ui/components/components.dart';
+import 'package:PictSnap/ui/pages/pages.dart';
+import 'package:flutter/material.dart';
+import 'package:PictSnap/models/models.dart';
+import 'package:PictSnap/shared/shared.dart';
+import 'package:provider/provider.dart';
+import 'package:dropdown_button2/dropdown_button2.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart';
+import 'package:flutter_colorpicker/flutter_colorpicker.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+
+part 'app_bar_widget.dart';
+part 'btn_download_widget.dart';
+part 'body_design_widget.dart';
+part 'bottom_navigation_bar_widget.dart';
+part 'box_palette_widget.dart';
+part 'btn_apply_widget.dart';
+part 'btn_change_widget.dart';
+part 'preview_booth_widget.dart';
+part 'type_widget.dart';
+part 'shake_transition.dart';
+part 'show_dialog_loading_widget.dart';
+part 'show_dialog_widget.dart';
+part 'show_dialog_info_widget.dart';
+part 'show_dialog_form_text_widget.dart';
+part 'show_dialog_color_picker_widget.dart';

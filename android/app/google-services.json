@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423901723848",
+    "project_id": "pictsnap-146bc",
+    "storage_bucket": "pictsnap-146bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423901723848:android:795d37410358ee5bba79fd",
+        "android_client_info": {
+          "package_name": "com.simhive.pictsnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423901723848-opspg5s91kl70213767mc57kga0ht5ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTkqFJfo3OeAsR8s4Yad2-vvht0rkffbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423901723848-opspg5s91kl70213767mc57kga0ht5ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
